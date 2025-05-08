@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет, я N1les!  
+**Программист на Python, HTML, CSS, JavaScript**
 
-<!--
-**hycos1/hycos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Обо мне
+- 💻 Работаю с: Python, HTML, CSS, JavaScript, AI
+- 🌱 Сейчас изучаю: JavaScript
+- ✉️ Telegram: [@n1lesof](https://t.me/n1lesof)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Технологии и инструменты
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![AI](https://img.shields.io/badge/-AI-333333?style=flat&logo=openai)
+
+---
+
+### 📈 Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=botcitrus&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botcitrus&layout=compact&theme=tokyonight)
