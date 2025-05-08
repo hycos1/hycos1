@@ -20,5 +20,5 @@
 ---
 
 ### 📈 Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=botcitrus&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=botcitrus&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hycos1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hycos1&layout=compact&theme=tokyonight)
